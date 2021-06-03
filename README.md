@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [my domain](http://rightclick.com.au/).
 
-- 📝 I regulary write articles on [b=my blog](http://rightclick.com.au/posts).
+- 📝 I regulary write articles on [my blog](http://rightclick.com.au/posts).
 
 - 💬 Ask me about **Flutter, Firebase and Vue**.
 
