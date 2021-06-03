@@ -12,7 +12,7 @@
 -  **Learn more about me from my [about page](https://rightclick.com.au/about/).**
 
 
-**Stats from my Public work**
+**Stats from my public work**
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bradintheusa&count_private=true&theme=tokyonight&showicons=true)]()
 
