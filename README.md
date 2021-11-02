@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brad</h1>
 
 
-- 👨‍💻 All of my projects are available at [my domain](http://rightclick.com.au/).
+- 👨‍💻 All of my projects are available at [my domain](https://rightclick.com.au/).
 
-- 📝 I regulary write articles on [my blog](http://rightclick.com.au/posts).
+- 📝 I regularly write articles on [my blog](https://rightclick.com.au/posts).
 
 - 💬 Ask me about **Flutter, Firebase and Vue**.
 
