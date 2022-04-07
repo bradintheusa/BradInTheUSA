@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [my blog](https://rightclick.com.au/posts).
 
-- 💬 Ask me about **Flutter, Firebase and Vue 3**.
+- 💬 Ask me about **Flutter, Firebase, CSS-Flex and Vue 3**.
 
 - 📫 How to reach me **brade@rightclick.com.au**. I reside in the USA (eastern timezone).
 
