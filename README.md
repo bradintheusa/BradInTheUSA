@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Firebase, CSS-Flex and Vue 3**.
 
-- 📫 How to reach me **brade@rightclick.com.au**. I reside in the USA (eastern timezone).
+- 📫 How to reach me **brade@rightclick.com.au**. I reside in the USA (Eastern timezone).
 
 -  **Learn more about me from my [about page](https://rightclick.com.au/about/).**
 
