@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **brade@rightclick.com.au**. I reside in the USA (Eastern timezone).
 
--  **Learn more about me from my [about page](https://rightclick.com.au/about/).**
+-  **Learn more about me from my [about page](https://rightclick.com.au/about/)** or [Google Profile](https://developers.google.com/profile/u/bradintheusa)
 
 
 **Stats from my public work**
