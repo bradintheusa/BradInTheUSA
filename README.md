@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brad</h1>
+<h2 align="center">A Freelance Developer</h2>
 
 
 - 👨‍💻 All of my projects are available at [rightclick.com.au](https://rightclick.com.au/).
