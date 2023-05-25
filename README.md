@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [rightclick.com.au](https://rightclick.com.au/).
 
-- 📝 I regularly write articles on [my blog](https://rightclick.com.au/posts).
+- 📝 I regularly write articles on [my blog](https://rightclick.com.au/general/).
 
-- 💬 Ask me about **Flutter, Firebase, CSS-Flex and Vue 3**.
+- 💬 Ask me about [**Flutter, Firebase, CSS-Flex and Vue 3**](https://rightclick.com.au/flutter/).
 
 - 📫 How to reach me **brade@rightclick.com.au**. I reside in the USA (Eastern timezone).
 
